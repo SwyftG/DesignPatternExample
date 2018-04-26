@@ -3,16 +3,16 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 皮克啪最近主打***瘦身长图***题材，各种高挑身材一览无余。皮克啪身体展开是防盗门的宽度。
-![peekpa]()
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_05_AbstractFactoryPattern/img/05_peekpa.jpeg)
 
 正事儿说完，咱们来聊聊**抽象工厂模式**。  
 抽象工厂模式，应该是算是工厂模式里面的一种，是一种创造类型的模式。Wikipedia解释如下：  
 “The **abstract factory pattern** provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.”  
 大致意思就是，抽象工厂模式为***创建一组相关或者是相互依赖的对象提供一个接口，而不是指定他们的具体类***。  
 所以，一般来说，抽象工厂模式，会有多个具体的工厂类，而且每个工厂类负责产生自己对应的产品。这些具体工厂类都是继承自一个抽象工厂类，而且他们的生产的产品，也是继承自一个抽象产品类。  
-抽象工厂的UML图如下：  
-
-！[uml](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_05_AbstractFactoryPattern/img/abstract_factory_pattern.jpg)
+抽象工厂的UML图如下：
+  
+![uml](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_05_AbstractFactoryPattern/img/abstract_factory_pattern.jpg)
 
 可以看到，抽象工厂模式还是那四个角色，***抽象工厂***，***具体工厂***，***抽象产品***，***具体产品***。只不过，这里具体工厂不在是只有一个，而是可以有**好几个**，工厂类里面的创造方法应该是包含**所有产品**的。是哪个产品的创建工厂，就实现对应产品的创造方法就可以。
 

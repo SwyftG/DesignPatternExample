@@ -3,7 +3,7 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 今日展示的是皮克啪的美腿，你看着消魂的姿势，唉呀妈呀~
-![peekpa]()
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_06_StrategyPattern/img/06_peekpa.jpeg)
 
 正事儿说完，咱们先来扯几句相关话题：
 所有的设计模式源代码，我均已上传到了***GitHub***上，欢迎***Star***，么么哒：
