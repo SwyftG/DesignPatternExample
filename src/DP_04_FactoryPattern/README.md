@@ -8,7 +8,7 @@
 
 工厂模式的UML图如下：
 
-[image]
+![image](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_04_FactoryPattern/img/factory_patter.jpg)
 
 这几个有几个角色：
 - **抽象工厂**，是工厂方法模式核心，里面定义工厂类的实现方法。
