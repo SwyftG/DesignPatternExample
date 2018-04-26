@@ -159,3 +159,7 @@ public class PeekTata extends IPeekCat {
 `缺点：`由于有很多具体工厂类的存在，使得项目的类的数量会过于庞大，扩展性不是很好，如果要添加新的产品，需要改动所有工厂类。  
 
 所以，使用起来，依情况而定。***啦啦啦啦啦啦~***
+
+#### 请大家关注一下我的公众号：**皮克啪的铲屎官**
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+#### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。

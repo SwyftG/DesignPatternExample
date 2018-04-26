@@ -253,7 +253,7 @@ public class PeekPaMom extends PeekFactory {
 最后闲扯几句，通过这几天的学习和整理，我发现，写文章是一个很好的过程，而且，我发现我这几篇文章，越写越多。但是感谢你能读到这里。***非常感谢你的支持，我会继续努力滴。***
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code]()
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。  
 
 

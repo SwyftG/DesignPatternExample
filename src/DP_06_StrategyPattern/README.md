@@ -129,3 +129,8 @@ public class PeekPa {
 `缺点：` *所有的策略都必须暴露出来，策略类也略多*。  
 
 今天给`PeekPa`买了新的*饮水机*，**效果很不错**。这样`PeekPa`就不会再渴了，主子水管够，我这下又有新的猫砂得铲了。干活好有动力，感觉胸前的红领巾更加***鲜艳***了。我去翻翻猫砂。。。。
+
+
+#### 请大家关注一下我的公众号：**皮克啪的铲屎官**
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+#### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。
