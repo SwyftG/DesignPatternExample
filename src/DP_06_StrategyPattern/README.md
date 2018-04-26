@@ -18,7 +18,7 @@
 
 策略模式的UML图如下：
   
-![image](img/strategy_pattern.jpg)
+![image](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_06_StrategyPattern/img/strategy_pattern.jpg)
 
 这个图里，有这么几个部分：
 - **Context** 用来操作策略的上下文环境
