@@ -15,4 +15,7 @@
 target/  
 bin/  
 .svn  
-*.iml  
+*.iml
+*/bin/
+*/gen/
+/out/
