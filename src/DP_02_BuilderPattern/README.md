@@ -1,8 +1,7 @@
 最前面先吐槽几句，首先我是个铲屎官，其次是个程序员。所以，以后在每篇文章的最开始，都会有“每日一皮克啪”板块。
 
 ### 每日一皮克啪
-
-
+![PeekPa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_02_BuilderPattern/img/02_peekpa.jpeg)
 啪完之后，接着说咱们的事儿了。
 Builder模式也是最常见的一种模式之一。在实际开发中，会遇到很多，比如Android中的Volley，Gilde，再比如百度地图sdk中，很多对象也是通过Builder模式创建的。这些最明显的标志位就是创建一个类的时候，会通过这个类的Builder来创建，而且一般将代码写成链式的样子，这样看上去很简洁易懂，非常舒服。通常，需要采用Builder这种模式的场景大概如下：  
 （1）类里面参数过多，关系复杂，设置不同的顺序会产生不同的结果。  
@@ -10,7 +9,7 @@ Builder模式也是最常见的一种模式之一。在实际开发中，会遇�
 （3）初始化一个对象特别复杂，比如参数过多，而且很多参数有初始值。
 
 Builder模式的**原生**UML类图如下：
-
+![uml](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_02_BuilderPattern/img/builder_pattern.jpg)
 - Product产品的抽象类
 - Builder抽象Builder类
 - ConcreteBuilder具体的Builder类
@@ -164,5 +163,5 @@ Cat MyLord = new Cat.CatBuilder("PeekPa")
 最后，脑子里还有很多板块可以搞，慢慢来呗，反正我敢保证，这个公众号绝对精彩，各种骚操作，各种五花八门的玩法，不说了，主子叫我铲屎去了。。。
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。

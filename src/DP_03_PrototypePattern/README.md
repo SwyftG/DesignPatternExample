@@ -1,6 +1,6 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
-
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_03_PrototypePattern/img/03_peekpa.jpeg)
 这是我准备工作前的场景。皮克啪眼神里透露出来的情绪很复杂。。。
 
 正事儿说完，咱们来聊聊原型模式。  
@@ -180,5 +180,5 @@ public class PeekPa implements Serializable {
 收尾呼应一下，皮克啪完事儿了，我该上场干活了。。。
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。

@@ -7,12 +7,12 @@
 每篇文章都是精华，并且满足你**云吸猫**的要求，每一天都爆照，可爱肉呼呼的皮克啪。还不快来学习分享交流，推荐给你周围的朋友~~
 
 ## 目录
-- [01_单例模式](https://github.com/SwyftG/DesignPatternExample)  
-- [02_建造者模式](https://github.com/SwyftG/DesignPatternExample)
-- [03_"二重身的"原型模式](https://github.com/SwyftG/DesignPatternExample)
-- [04_"超级简单的哦"工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/dev/src/DP_04_FactoryPattern)
-- [05_"无脑狂写的"抽象工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/dev/src/DP_05_AbstractFactoryPattern)
-- [06_"计算皮克啪喝水的"策略模式](https://github.com/SwyftG/DesignPatternExample/tree/dev/src/DP_06_StrategyPattern)
+- [01_单例模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_01_SingletonPattern)  
+- [02_建造者模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_02_BuilderPattern)
+- [03_"二重身的"原型模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_03_PrototypePattern)
+- [04_"超级简单的哦"工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_04_FactoryPattern)
+- [05_"无脑狂写的"抽象工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_05_AbstractFactoryPattern)
+- [06_"计算皮克啪喝水的"策略模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_06_StrategyPattern)
 
 
 最后，说一句重要的：

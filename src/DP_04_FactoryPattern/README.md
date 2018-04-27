@@ -3,7 +3,7 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 今日更新皮克啪高清无码大图，绝对震撼！！！
-![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_04_FactoryPattern/img/04_peekpa.jpeg)
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_04_FactoryPattern/img/04_peekpa.jpeg)
 
 正事儿说完，咱们来聊聊工厂模式。  
 工厂模式，应该算是应用最广的模式之一，Wikipedia解释如下：  
@@ -14,7 +14,7 @@
 
 工厂模式的UML图如下：
 
-![image](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_04_FactoryPattern/img/factory_patter.jpg)
+![image](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_04_FactoryPattern/img/factory_patter.jpg)
 
 这几个有几个角色：
 - **抽象工厂**，是工厂方法模式核心，里面定义工厂类的实现方法。
@@ -253,7 +253,7 @@ public class PeekPaMom extends PeekFactory {
 最后闲扯几句，通过这几天的学习和整理，我发现，写文章是一个很好的过程，而且，我发现我这几篇文章，越写越多。但是感谢你能读到这里。***非常感谢你的支持，我会继续努力滴。***
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。  
 
 

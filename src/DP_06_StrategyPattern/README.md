@@ -3,7 +3,7 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 今日展示的是皮克啪的美腿，你看着消魂的姿势，唉呀妈呀~
-![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_06_StrategyPattern/img/06_peekpa.jpeg)
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_06_StrategyPattern/img/06_peekpa.jpeg)
 
 正事儿说完，咱们先来扯几句相关话题：
 所有的设计模式源代码，我均已上传到了***GitHub***上，欢迎***Star***，么么哒：
@@ -18,7 +18,7 @@
 
 策略模式的UML图如下：
   
-![image](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_06_StrategyPattern/img/strategy_pattern.jpg)
+![image](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_06_StrategyPattern/img/strategy_pattern.jpg)
 
 这个图里，有这么几个部分：
 - **Context** 用来操作策略的上下文环境
@@ -132,5 +132,5 @@ public class PeekPa {
 
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。

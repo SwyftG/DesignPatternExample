@@ -3,7 +3,7 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 皮克啪最近主打***瘦身长图***题材，各种高挑身材一览无余。皮克啪身体展开是防盗门的宽度。
-![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_05_AbstractFactoryPattern/img/05_peekpa.jpeg)
+![peekpa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_05_AbstractFactoryPattern/img/05_peekpa.jpeg)
 
 正事儿说完，咱们来聊聊**抽象工厂模式**。  
 抽象工厂模式，应该是算是工厂模式里面的一种，是一种创造类型的模式。Wikipedia解释如下：  
@@ -12,7 +12,7 @@
 所以，一般来说，抽象工厂模式，会有多个具体的工厂类，而且每个工厂类负责产生自己对应的产品。这些具体工厂类都是继承自一个抽象工厂类，而且他们的生产的产品，也是继承自一个抽象产品类。  
 抽象工厂的UML图如下：
   
-![uml](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/DP_05_AbstractFactoryPattern/img/abstract_factory_pattern.jpg)
+![uml](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_05_AbstractFactoryPattern/img/abstract_factory_pattern.jpg)
 
 可以看到，抽象工厂模式还是那四个角色，***抽象工厂***，***具体工厂***，***抽象产品***，***具体产品***。只不过，这里具体工厂不在是只有一个，而是可以有**好几个**，工厂类里面的创造方法应该是包含**所有产品**的。是哪个产品的创建工厂，就实现对应产品的创造方法就可以。
 
@@ -161,5 +161,5 @@ public class PeekTata extends IPeekCat {
 所以，使用起来，依情况而定。***啦啦啦啦啦啦~***
 
 #### 请大家关注一下我的公众号：**皮克啪的铲屎官**
-![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/dev/src/img/qr_code.png)
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
 #### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。
