@@ -3,7 +3,7 @@
 首先，惯例，先说正事儿：
 ### 每日一皮克啪
 瑜伽猫
-!
+![PeekPa](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_07_StatePattern/img/07_peekpa.jpeg)
 
 正事儿说完，咱们先来扯几句相关话题：
 所有的设计模式源代码，我均已上传到了***GitHub***上，欢迎***Star***，么么哒：
@@ -19,7 +19,7 @@
 
 状态模式的UML图如下：
 
-![uml]  
+![uml](https://github.com/SwyftG/DesignPatternExample/blob/master/src/DP_07_StatePattern/img/state_pattern.jpg)  
 
 可以看到这里面的结构和策略模式很像，
 - **Context** 上下文，定义感兴趣的接口，维护一个State子类的实例
@@ -218,5 +218,7 @@ public class PeekPa {
 `优点：` *结构简单，封装性好，易于扩展。各种状态不暴露给客户端，能够较好的保护数据*。   
 `缺点：` *状态模式需要编写很多具状态类，会增加代码数量*。
 
-
+#### 请大家关注一下我的公众号：**皮克啪的铲屎官**
+![qr_code](https://github.com/SwyftG/DesignPatternExample/blob/master/src/img/qr_code.png)
+#### 是一个日更的微信公众号，每天都有新知识，大家一起交流进步。
 
