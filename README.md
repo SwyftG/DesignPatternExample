@@ -13,6 +13,7 @@
 - [04_"超级简单的哦"工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_04_FactoryPattern)
 - [05_"无脑狂写的"抽象工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_05_AbstractFactoryPattern)
 - [06_"计算皮克啪喝水的"策略模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_06_StrategyPattern)
+- [07_“随性切换的”状态模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_07_StatePattern)
 
 
 最后，说一句重要的：
