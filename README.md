@@ -14,7 +14,7 @@
 - [05_"无脑狂写的"抽象工厂模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_05_AbstractFactoryPattern)
 - [06_"计算皮克啪喝水的"策略模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_06_StrategyPattern)
 - [07_“随性切换的”状态模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_07_StatePattern)
-- [07_"排排坐吃果果的"责任链模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_08_ChainOfResponsibilityPattern)
+- [08_"排排坐吃果果的"责任链模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_08_ChainOfResponsibilityPattern)
 
 
 
