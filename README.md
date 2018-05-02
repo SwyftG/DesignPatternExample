@@ -15,6 +15,8 @@
 - [06_"计算皮克啪喝水的"策略模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_06_StrategyPattern)
 - [07_“随性切换的”状态模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_07_StatePattern)
 - [08_"排排坐吃果果的"责任链模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_08_ChainOfResponsibilityPattern)
+- [09_“一是一二是二的”解释器模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_09_InterpreterPattern)
+
 
 
 
