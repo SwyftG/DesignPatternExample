@@ -17,6 +17,7 @@
 - [08_"排排坐吃果果的"责任链模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_08_ChainOfResponsibilityPattern)
 - [09_“一是一二是二的”解释器模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_09_InterpreterPattern)
 - [10_“一层又一层封装的”命令模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_10_CommandPattern)
+- [11_“一呼百应的”观察者模式](https://github.com/SwyftG/DesignPatternExample/tree/master/src/DP_11_ObserverPattern)
 
 
 
